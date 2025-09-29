@@ -122,3 +122,13 @@ padding: 4px 0;
 border-bottom: 1px dashed rgba(0,0,0,0.2);
 }
 
+footer {
+text-align: center; 
+padding: 8px 0; 
+background-color: #ded9d9;
+color: #333; 
+position: fixed; 
+bottom: 0;
+width: 100%;
+font-size: 12px; 
+}
